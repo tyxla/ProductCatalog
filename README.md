@@ -1,4 +1,4 @@
 ProductCatalog
 ==============
 
-A simple product catalog, built on C#
+A simple product catalog, built on C#.
