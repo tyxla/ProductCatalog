@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.EditProduct.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.EditManufacturer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Search.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.AboutProgram.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.AboutCreators.resources
+F:\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe
+F:\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.pdb
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.pdb
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe.manifest
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.application
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.exe
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\bin\Debug\ProductCatalog.pdb
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.AboutCreators.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.AboutProgram.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.EditManufacturer.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.EditProduct.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Form1.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.Search.resources
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.exe.manifest
+D:\Unsorted\Work\Marin's Works\IU\PSD\ProductCatalog\ProductCatalog\ProductCatalog\obj\Debug\ProductCatalog.application
